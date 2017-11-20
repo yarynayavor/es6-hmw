@@ -8,20 +8,20 @@
 
 ## File structure
 
-*|__ babel_setup.js
-*|__ class.js
-*|__ class_extend.js
-*|__ modules_with_name.js
-*|__ modules_with_name_math.js
-*|__ modules_default_export.js
-*|__ modules_default_export_math.js
-*|__ solution.js
-*|__ computed_property.js
-*|__ iterator_for_of.js
-*|__ generator.js
-*|__ destructure.js
-*|__ arrow_function.js
-*|__ rest_and_spread.js
+* |__ babel_setup.js
+* |__ class.js
+* |__ class_extend.js
+* |__ modules_with_name.js
+* |__ modules_with_name_math.js
+* |__ modules_default_export.js
+* |__ modules_default_export_math.js
+* |__ solution.js
+* |__ computed_property.js
+* |__ iterator_for_of.js
+* |__ generator.js
+* |__ destructure.js
+* |__ arrow_function.js
+* |__ rest_and_spread.js
 
 ***
 
