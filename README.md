@@ -1,8 +1,8 @@
 # Learn ES6 with Tower-of-babel
 
-![All tasks](https://github.com/yarynayavor/es6-hmw/blob/master/image.jpg "All tasks completes successfully")
-
 > **[Link to .zip file](https://drive.google.com/file/d/1EZsd9l-XIZ6Q6cuOlRF97n_vxmkuSObF/view)**
+
+![All tasks](https://github.com/yarynayavor/es6-hmw/blob/master/image.jpg "All tasks completes successfully")
 
 ***
 
